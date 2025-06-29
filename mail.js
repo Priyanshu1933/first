@@ -5,3 +5,8 @@ function tets(){
 }
 
 tets()
+tets()
+tets()
+tets()
+tets()
+tets()
